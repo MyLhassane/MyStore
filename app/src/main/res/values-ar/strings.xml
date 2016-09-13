@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">متجري</string>
+    <string name="Car_Rental_Center">مركز تأجير السيارات</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="addCar">إضافة سيارة</string>
+    <string name="editCar">تعديل سيارة</string>
+    <string name="company_name">إسم الشركة</string>
+    <string name="model">الموديل</string>
+    <string name="are_you_a_new_car">هل السيارة جديدة ؟</string>
+    <string name="yes">نعم</string>
+    <string name="add">إضافة</string>
+    <string name="update">تعديل</string>
+    <string name="delete">حدف</string>
+    <string name="id">رقم اللوحة</string>
+    <string name="password">كلمة المرور</string>
+    <string name="userName">إسم المستخدم</string>
+    <string name="regester">تسجيل</string>
+</resources>
